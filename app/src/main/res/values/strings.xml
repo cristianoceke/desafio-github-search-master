@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="nome_do_usuario">Nome do usuário</string>
+    <string name="pesquisar_usuario">Confirmar</string>
+    <string name="descricao_ic_share">Ícone de compartilhamento</string>
+    <string name="response_error">Usuário não encontrado</string>
+    <string name="descricao_ic_wifi_off">Sem conexão com internet</string>
+    <string name="text_wifi_off">Sem conexão com internet</string>
+    <string name="Res">Resultados:</string>
+</resources>
